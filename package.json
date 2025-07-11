@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@auth0/auth0-react": "^1.15.0",
+    "@auth0/auth0-react": "^2.0.1",
     "@heroicons/react": "^2.0.18",
     "@headlessui/react": "^1.7.17",
     "@tailwindcss/aspect-ratio": "^0.4.2",
